@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pterentiafricom00dziagoog/pterentiafricom00dziagoog_0008.png"; bbox 0 0 702 1150; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 137 431 526 457">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 137 431 526 457">
+     <span class='ocr_line' id='line_1_1' title="bbox 137 431 526 457; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 137 431 316 457; x_wconf 82' lang='lat' dir='ltr'><strong>GVSTAVO</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 340 432 526 457; x_wconf 83' lang='lat' dir='ltr'>GROEBER</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 232 498 430 515">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 232 498 430 515">
+     <span class='ocr_line' id='line_1_2' title="bbox 232 498 430 515; baseline 0 -1"><span class='ocrx_word' id='word_1_3' title='bbox 232 498 430 515; x_wconf 74' lang='lat' dir='ltr'>ARGENTORATENSI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 196 556 463 573">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 196 556 463 573">
+     <span class='ocr_line' id='line_1_3' title="bbox 196 556 463 573; baseline 0 -1"><span class='ocrx_word' id='word_1_4' title='bbox 196 556 344 573; x_wconf 77' lang='lat' dir='ltr'>AMICITIAE</span> <span class='ocrx_word' id='word_1_5' title='bbox 362 556 463 573; x_wconf 76' lang='lat' dir='ltr'>GRATIA</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
